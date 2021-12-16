@@ -1,0 +1,39 @@
+*
+{
+  box-sizing:border-box;
+  font-family: 'Readex Pro', sans-serif;
+}
+body
+{
+  position:relative;
+  background:url("https://res.cloudinary.com/practicaldev/image/fetch/s--rIMJB0Lh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/881jdm7sdnril6hn3f3l.PNG");
+  
+}
+
+header
+{
+  text-align:center;
+  color:white;
+}
+#form
+{
+  background:#7104BA99;
+  width:600px;
+  margin: auto;
+  color:white;
+  
+}
+
+.form-group
+{
+  margin:20px;
+}
+.smaller
+{
+  font-size:smaller;
+  
+}
+form input
+{
+  margin:5px;
+}
